@@ -1,0 +1,3 @@
+Today day two in Git
+I like Git
+It is very fun
